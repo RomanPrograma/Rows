@@ -9,5 +9,5 @@ for i in string:
         number_count +=1
     else:
         print('bl')
-print(alpha_count)
-print(number_count)
+print('symbols in str: ', alpha_count)
+print('numbers in str: ', number_count)

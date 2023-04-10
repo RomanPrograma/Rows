@@ -1,6 +1,3 @@
-
-
-
 string =input('enter string:  ')
 search_word =input('enter word what looking for:  ')
 word_for_change =input('enter replacement word:  ')
